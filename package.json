@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "handlebars": "^4.7.7",
+    "mysql2": "^3.0.1",
+    "sequelize": "^6.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "echo \"Error: no start script specified\" && exit 1",
+    "dev": "nodemon index.js"
+    
+  },
+  "name": "Star2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "engines": {
+    "node": ">= 10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giselamarque/Star2.git",
+    "directory": "Star2"
+  },
+  "bugs": {
+    "url": ","
+  },
+  "homepage": ","
+
+
+}
+
+
